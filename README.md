@@ -132,7 +132,7 @@ Open your browser and navigate to `http://localhost:5173`
 
 ## Related Project
 
-- [**CoInsight**](https://github.com/bitvis2021/CoInsight) - Visual storytelling for hierarchical tables (IEEE TVCG 2024)
+- [**CoInsight**](https://github.com/PFCS33/CoInsight_Graph) - Visual storytelling for hierarchical tables (IEEE TVCG 2024)
 
 ## Contact
 
